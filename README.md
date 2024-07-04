@@ -1,14 +1,21 @@
-Name-Pritisundar Nayak
-Company:CODTECH IT SOLUTIONS 
+Name:Pritisundar Nayak
+
+Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS2036
-Domain- Web development
-Duration-june-july 2024
-Mentor-Savani Gouni
+
+Domain: Web development
+
+Duration:june-july 2024
+
+Mentor:Savani Gouni
+
 
 
 
 
 Overview of Task-2
+
 
 Html file-
 This HTML code is for a Weather App
